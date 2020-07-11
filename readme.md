@@ -12,7 +12,7 @@ As this utility can handle multiple string and dynamically search and replace at
 
 Field Name | Description
 ---------- | ------------
-Sourcce | Source string you would like to search
+Source | sensitive string you would like to replace
 Target | String you would like to be replaced with
 
 # Sample CSV File
