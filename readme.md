@@ -1,8 +1,8 @@
 # Introduction
 
 This utility is to sanitize your Log Files 
-by replacing sensitice information with any string that deemed insensitive and you can reference it back.
-As teh sensitive information in one file are more than one, I use CSV file to define source string to search and target string to replace with.
+by replacing sensitive information with any string that deemed insensitive which you can reference it back.
+You can replace more than one sensitive data. I use CSV file to define source string to search and target string to replace with. 
 
 This utility also can handle nested directory and multiple files in the same directory. It works by copying it from Source Directory to Target Directory so you can cross check with original file content to make sure that it will do the job correctly.
 
